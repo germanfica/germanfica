@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @germanfica a fullstack software developer
-- 👀 I’m interested in web delevopment and game development
+- 👀 I’m interested in web development, game development and cli tools!!
 - 🌱 I’m currently learning grafana, prometheus and reactjs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
