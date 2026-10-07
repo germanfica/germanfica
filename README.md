@@ -7,10 +7,10 @@
   />
 </a>
 
-- 👋 Hi, I’m @germanfica a fullstack software developer
-- 👀 I’m interested in web development, game development and cli tools!!
-- 🌱 I’m currently learning grafana, prometheus and reactjs
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I'm @germanfica, a fullstack software developer
+- 👀 I'm interested in Go, TUIs, CLI tools, web development and game development
+- 🛠️ I'm currently building tools with Go and Node.js
+- 🌐 I'm working on Ciencia Celeste, a static website that uses version control for its content instead of a database
 - 📫 How to reach me ...
 
 <!---
