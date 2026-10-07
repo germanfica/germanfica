@@ -8,7 +8,7 @@
 </a>
 
 - 👋 Hi, I'm @germanfica, a fullstack software developer
-- 👀 I'm interested in Go, TUIs, CLI tools, web development and game development
+- 👀 I'm interested in Go, TUIs, web development, game development and CLI tools!!
 - 🛠️ I'm currently building tools with Go and Node.js
 - 🌐 I'm working on Ciencia Celeste, a static website that uses version control for its content instead of a database
 - 📫 How to reach me ...
